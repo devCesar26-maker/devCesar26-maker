@@ -70,9 +70,3 @@ Desenvolvo aplicações web full stack focadas no ecossistema **Python (Django/D
 
 ---
 
-### 📈 Estatísticas do GitHub
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=devCesar26-maker&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devCesar26-maker&layout=compact&theme=tokyonight&hide=html,css"/>
-</p>
