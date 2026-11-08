@@ -19,7 +19,6 @@
 
   <h1>👋 Olá, eu sou o César Oliveira</h1>
 
-  <!-- TYPING SVG COM CONTAINER LERGO (700px) PARA EVITAR CORTES -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=2000&color=38BDF8&center=true&vCenter=true&width=700&lines=Transformo+regras+de+neg%C3%B3cio+em+softwares+aplic%C3%A1veis." alt="Typing SVG" />
   </a>
@@ -27,12 +26,12 @@
   <br/><br/>
 
   <p align="center">
-    Desenvolvo aplicações web full stack focadas no ecossistema <b>Python (Django/DRF) e React</b>.<br/>
-    Tenho direcionamento prático para construção de APIs RESTful, sistemas assíncronos, segurança de aplicações (OWASP) e automação de testes.
+    Engenheiro de Software Full Stack focado na construção de produtos web modernos e escaláveis com <b>Python (Django/DRF) e React</b>.<br/>
+    Atuo no ciclo completo de desenvolvimento: desde a modelagem de banco de dados e arquitetura de APIs RESTful até o processamento assíncrono em background, testes automatizados e hardening de segurança (OWASP).
   </p>
 
   <p align="center">
-    📍 <b>São Benedito, Ceará, Brasil</b> &nbsp;•&nbsp; 🎓 <b>Graduando em Ciência da Computação no IFCE</b> &nbsp;•&nbsp; 💼 <b>Buscando primeira oportunidade como Desenvolvedor Júnior (Remoto)</b>
+    📍 <b>São Benedito, Ceará, Brasil</b> &nbsp;•&nbsp; 🎓 <b>Graduando em Ciência da Computação no IFCE</b> &nbsp;•&nbsp; 💼 <b>Buscando oportunidade como Desenvolvedor Júnior (Remoto)</b>
   </p>
 
 </div>
@@ -111,6 +110,8 @@
 
 <br/>
 
-## 🏆 Raciocínio Lógico & Resolução de Problemas
+## 🏆 Raciocínio Lógico & Diferenciais
 
-> **Histórico Olímpico (OBMEP, OBA e preparação OBI):** Premiações em olimpíadas científicas que consolidaram minha base teórica em lógica matemática, algoritmos e estruturas de dados.
+> 🎯 **Histórico Olímpico (OBMEP, OBA e preparação OBI):** Premiações em olimpíadas científicas que consolidaram minha base teórica em lógica matemática, algoritmos e estruturas de dados.
+> 
+> 🎵 **Além do Código:** Apaixonado por música nas horas vagas, toco violão, guitarra e teclado — prática que exercita percepção de padrões, foco contínuo e criatividade.
