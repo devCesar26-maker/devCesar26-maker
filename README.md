@@ -26,7 +26,7 @@
   <br/><br/>
 
   <p align="center">
-    Engenheiro de Software Full Stack focado na construção de produtos web modernos e escaláveis com <b>Python (Django/DRF) e React</b>.<br/>
+    Desenvolvedor Full Stack focado na construção de produtos web modernos e escaláveis com <b>Python (Django/DRF) e React</b>.<br/>
     Atuo no ciclo completo de desenvolvimento: desde a modelagem de banco de dados e arquitetura de APIs RESTful até o processamento assíncrono em background, testes automatizados e hardening de segurança (OWASP).
   </p>
 
