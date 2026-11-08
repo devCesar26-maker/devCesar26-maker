@@ -1,6 +1,6 @@
 <!-- BANNER PRINCIPAL -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devCesar26-maker/devCesar26-maker/main/banner.png" alt="César Oliveira Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/devCesar26-maker/devCesar26-maker/main/Banner_Git.jpg" alt="César Oliveira Banner" width="100%">
 </p>
 
 <!-- BOTÕES DE CONTATO -->
