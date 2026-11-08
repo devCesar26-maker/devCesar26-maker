@@ -14,6 +14,12 @@
 
 ## 👋 Olá, eu sou o César Oliveira
 
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=2000&color=38BDF8&vCenter=true&width=550&lines=Transformo+regras+de+neg%C3%B3cio+em+softwares+aplic%C3%A1veis." alt="Typing SVG" />
+  </a>
+</p>
+
 Desenvolvo aplicações web full stack focadas no ecossistema **Python (Django/DRF) e React**. Tenho direcionamento prático para construção de APIs RESTful, sistemas assíncronos, segurança de aplicações (OWASP) e automação de testes.
 
 📍 **São Benedito, Ceará, Brasil** • 🎓 **Graduando em Ciência da Computação no IFCE** • 💼 **Buscando primeira oportunidade como Desenvolvedor Júnior (Remoto)**
@@ -49,7 +55,7 @@ Desenvolvo aplicações web full stack focadas no ecossistema **Python (Django/D
 
 ---
 
-### 🚀 Projetos Autorais em Destaque
+## 🚀 Projetos Autorais em Destaque
 
 - 💳 **[FinFlow — SaaS Financeiro Multi-Tenant](https://github.com/devCesar26-maker/GESTOR_FINANCAS)**  
   Plataforma de gestão financeira com 23 rotas REST (OpenAPI 3), filas assíncronas via Celery/Redis e 283 testes automatizados (92% de cobertura backend). Proteções OWASP contra SQLi, XSS e CSRF.  
@@ -65,8 +71,5 @@ Desenvolvo aplicações web full stack focadas no ecossistema **Python (Django/D
 
 ---
 
-### 🏆 Raciocínio Lógico & Resolução de Problemas
+## 🏆 Raciocínio Lógico & Resolução de Problemas
 - **Histórico Olímpico (OBMEP, OBA e preparação OBI):** Premiações em olimpíadas científicas que consolidaram minha base teórica em lógica matemática, algoritmos e estruturas de dados.
-
----
-
